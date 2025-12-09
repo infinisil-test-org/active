@@ -1,1 +1,1 @@
-I am a file.
+Ceci n’est pas un fichier.
